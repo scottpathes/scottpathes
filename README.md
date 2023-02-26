@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Thanks for stopping by. I'm Scott. Just a littlebit about me.... I was a bit of an indie dev back in the days (well before the days of Github!). mostly freelancing on the symbian os scene.
+
+If you had a Nokia handheld in the early 2000s chances are that you were using something thaat I'd worked on, be it a game from Gameloft (remember them and their reign of terror?) or an app (email, calenders etc) and maybe even the occasional bluetooth worm shshshs...
+
+After over almost two decades away from programming ; and two other careers in carpentry and stage design that took me around the world .. thought I'd give the old coding another crack. Luckily now I can do it as a retired hobbydev. Still a lot to catchup on =)
+
+Pleasure to be here. Get in touch if you have an interesting project or two in mind.
+
 <!--
 **scottpathes/scottpathes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
